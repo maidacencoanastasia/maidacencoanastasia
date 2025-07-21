@@ -1,9 +1,3 @@
------
-
-# 👋 Hi, I'm Anastasia Maidacenco\!
-
------
-
 ## ✨ About Me
 
 I'm a **C/C++ developer** with extensive experience in teaching and mentoring aspiring programmers. Currently, I work as a developer at **HalleySoft**, where I focus on various C/C++ projects with a strong interest in **system-level programming** and **embedded systems development**.
